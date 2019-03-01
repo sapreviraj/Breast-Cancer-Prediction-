@@ -1,5 +1,5 @@
 # Breast-Cancer-Prediction-
-ENHANCING EARLY BREAST CANCER DETECTION USING K-NN ALGORITHM 
+Enhancing Early Breast Cancer Detection Using K-NN Algorithm   
 
 # Source  
 Wisconsin Breast Cancer Diagnostic from UCI Machine Learning Repository  
